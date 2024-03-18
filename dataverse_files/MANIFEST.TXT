@@ -1,0 +1,33 @@
+Wave3/SCALAR_Coastal_Longitudinal_Study_Wave_3_map.ods (application/vnd.oasis.opendocument.spreadsheet) 19009 bytes.
+Wave1/SCALAR_Coastal_Longitudinal_Study_Wave_1_map.ods (application/vnd.oasis.opendocument.spreadsheet) 34878 bytes.
+Wave4/SCALAR_Coastal_Longitudinal_Study_Wave_4_US.csv (text/csv) 6971 bytes.
+ERC SCALAR_w4.pdf (application/pdf) 301181 bytes.
+Wave2/SCALAR_Coastal_Longitudinal_Study_Wave_2_NL.csv (text/csv) 6523 bytes.
+Wave2_Recontact/SCALAR_Coastal_Longitudinal_Study_Recontact_US.csv (text/csv) 353 bytes.
+Wave1/SCALAR_Coastal_Longitudinal_Study_Wave_1_CN.csv (text/csv) 11117 bytes.
+Wave4/SCALAR_Coastal_Longitudinal_Study_Wave_4_CN.csv (text/csv) 6733 bytes.
+Wave2/SCALAR_Coastal_Longitudinal_Wave_2_US.csv (text/csv) 6431 bytes.
+ERC SCALAR_w2_recontact.pdf (application/pdf) 254092 bytes.
+Wave1/lock.Survey_Wave_One_Houston_subset.csv (application/octet-stream) 92 bytes.
+Wave2_Recontact/SCALAR_Coastal_Longitudinal_Study_Recontact_NL.csv (text/csv) 295 bytes.
+Wave4/SCALAR_Coastal_Longitudinal_Study_Wave_4_ID.csv (text/csv) 7485 bytes.
+Wave1/lock.Survey_Wave_One_Jakarta_subset.csv (application/octet-stream) 92 bytes.
+ERC SCALAR_w1.pdf (application/pdf) 547183 bytes.
+Wave1/.ipynb_checkpoints/create_subset_Jakarta_Houston-checkpoint.ipynb (application/x-ipynb+json) 29447 bytes.
+Wave1/SCALAR_Coastal_Longitudinal_Wave_1_US.csv (text/csv) 11478 bytes.
+Wave3/SCALAR_Coastal_Longitudinal_Study_Wave_3_CN.csv (text/csv) 6992 bytes.
+Wave1/SCALAR_Coastal_Longitudinal_Study_Wave_1_ID.csv (text/csv) 11936 bytes.
+Wave4/SCALAR_Coastal_Longitudinal_Study_Wave_4_map.ods (application/vnd.oasis.opendocument.spreadsheet) 18361 bytes.
+ERC SCALAR_w2.pdf (application/pdf) 344352 bytes.
+Wave2_Recontact/SCALAR_Coastal_Longitudinal_Study_Recontact_ID.csv (text/csv) 383 bytes.
+Wave3/SCALAR_Coastal_Longitudinal_Study_Wave_3_ID.csv (text/csv) 8422 bytes.
+Wave3/SCALAR_Coastal_Longitudinal_Wave_3_US.csv (text/csv) 6675 bytes.
+Wave2/SCALAR_Coastal_Longitudinal_Study_Wave_2_CN.csv (text/csv) 6392 bytes.
+Wave2/SCALAR_Coastal_Longitudinal_Study_Wave_2_map.ods (application/vnd.oasis.opendocument.spreadsheet) 18103 bytes.
+Wave2/SCALAR_Coastal_Longitudinal_Study_Wave_2_ID.csv (text/csv) 6634 bytes.
+Wave1/SCALAR_Coastal_Longitudinal_Study_Wave_1_NL.csv (text/csv) 10596 bytes.
+ERC SCALAR_w3.pdf (application/pdf) 353456 bytes.
+Wave2_Recontact/SCALAR_Coastal_Longitudinal_Study_Recontact_CN.csv (text/csv) 314 bytes.
+Wave3/SCALAR_Coastal_Longitudinal_Study_Wave_3_NL.csv (text/csv) 6203 bytes.
+Wave2_Recontact/SCALAR_Coastal_Longitudinal_Study_Recontact_map.ods (application/vnd.oasis.opendocument.spreadsheet) 4578 bytes.
+Wave4/SCALAR_Coastal_Longitudinal_Study_Wave_4_NL.csv (text/csv) 5211 bytes.
