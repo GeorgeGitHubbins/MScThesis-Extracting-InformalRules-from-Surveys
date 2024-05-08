@@ -1,0 +1,26 @@
+sep=,
+,Question_ID,Question_Text,Response_Option,Response_Value,ADICO_Category
+0,1,What is your age?,Under 18,1,Attribute
+1,1,What is your age?,18-35,2,Attribute
+2,1,What is your age?,36-50,3,Attribute
+3,1,What is your age?,51-65,4,Attribute
+4,1,What is your age?,Over 65,5,Attribute
+5,2,What is your gender?,Male,1,Attribute
+6,2,What is your gender?,Female,2,Attribute
+7,2,What is your gender?,Other,3,Attribute
+8,3,Have you recycled in the past month?,Yes,1,Aim
+9,3,Have you recycled in the past month?,No,2,Aim
+10,4,Do you plan to use public transportation more frequently?,Yes,1,Aim
+11,4,Do you plan to use public transportation more frequently?,No,2,Aim
+12,5,Did you vote in the last election?,Yes,1,Aim
+13,5,Did you vote in the last election?,No,2,Aim
+14,6,Did you recycle because it was convenient?,Yes,1,Condition
+15,6,Did you recycle because it was convenient?,No,2,Condition
+16,7,Would you use public transport if it were cheaper?,Yes,1,Condition
+17,7,Would you use public transport if it were cheaper?,No,2,Condition
+18,8,Did seeing a political ad influence your decision to vote?,Yes,1,Condition
+19,8,Did seeing a political ad influence your decision to vote?,No,2,Condition
+20,9,Do you feel obligated to recycle?,Yes,1,Deontic
+21,9,Do you feel obligated to recycle?,No,2,Deontic
+22,10,Do your peers expect you to use public transportation?,Yes,1,Deontic
+23,10,Do your peers expect you to use public transportation?,No,2,Deontic
