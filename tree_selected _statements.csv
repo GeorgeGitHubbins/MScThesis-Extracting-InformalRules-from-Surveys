@@ -1,9 +1,0 @@
-Aim,Aim_resp,filter1,Condition,Condition_resp,Threshold,filter2
-R06a_media_freq,1 - Very infrequently,16.0,R02_perc_prob,"Once in 500 years or a 0.2% chance annually, Once in 200 years or a .5% chance annually, Once in 100 years or 1% chance annually, Once in 50 years or a 2% chance annually, Once in 10 years or 10% chance annually, Annually, More frequent than once per year, Don’t know",2.5,13.0
-R2_implementation_NM4,I do not intend to implement this non-structural measure,15.0,R2_implementation_NM6,I do not intend to implement this non-structural measure,3.5,12.0
-R2_implementation_NM4,I do not intend to implement this non-structural measure,15.0,R2_implementation_NM7,I do not intend to implement this non-structural measure,3.5,12.0
-R2_implementation_NM5,I do not intend to implement this non-structural measure,11.0,R2_implementation_NM10,I do not intend to implement this non-structural measure,3.5,9.0
-R2_implementation_SM3,I do not intend to implement this structural measure,17.0,R1a_self_efficacy_SM2,"1 - I am unable, 2",2.5,14.0
-R2_implementation_SM3,I do not intend to implement this structural measure,17.0,R1a_self_efficacy_SM7,"1 - I am unable, 2",2.5,14.0
-R2_implementation_SM3,I do not intend to implement this structural measure,17.0,R1a_self_efficacy_SM1,"1 - I am unable, 2",2.0,14.0
-R2_implementation_SM3,I do not intend to implement this structural measure,17.0,R1a_self_efficacy_SM3,"1 - I am unable, 2",2.5,14.0

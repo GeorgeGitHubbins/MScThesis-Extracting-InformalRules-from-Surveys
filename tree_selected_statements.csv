@@ -1,0 +1,5 @@
+Aim,Aim_resp,total_aim,Condition1,Condition1_resp,Threshold1,filter1,Condition2,Condition2_resp,Threshold2,filter2
+R06a_media_freq,1 - Very infrequently,940.0,Q31a_media_trust,"1 - Do not trust at all, 2, 3",3.5,681.0,R06b_social_media_freq,"4, 5 - Very frequently",3.5,632.0
+R2_implementation_NM4,I do not intend to implement this non-structural measure,676.0,R2_implementation_NM5,I have not yet implemented this measure,3.5,519.0,R2_implementation_NM3,I have not yet implemented this measure,3.5,487.0
+R2_implementation_NM5,I have already implemented this non-structural measure,627.0,R2_implementation_NM4,"I have already implemented this non-structural measure, I intend to implement this non-structural measure in the next 6 months, I intend to implement this non-structural measure in the next 12 months",3.5,470.0,R2_implementation_NM9,I have not yet implemented this measure,3.5,386.0
+R2_implementation_SM3,I do not intend to implement this structural measure,855.0,R2_implementation_SM2,I have not yet implemented this measure,3.5,837.0,R2_implementation_SM1,I have not yet implemented this measure,3.5,818.0
