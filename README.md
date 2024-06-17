@@ -1,6 +1,6 @@
 # MThesis
 
-## Project Title: Survey Questionnaire Analysis for Climate Adaptation Behavior
+## Identifying Institutions and Social Behaviour: A Method for Extracting Institutional Informal Rules from Surveys
 
 ### Introduction
 Climate resilience has become a pressing global concern, necessitating informed policymaking and community adaptation strategies. Understanding climate adaptation behavior is crucial for mitigating the impacts of climate change and fostering resilience. However, extracting social structures from survey questionnaire data remains a challenge, lacking standardized methodologies.
@@ -22,10 +22,10 @@ The main research question guiding this project is:
 - What standard method can be developed to extract informal rules-in-use for institutional analysis from survey data?
 
 Sub-questions include:
-1. What challenges do researchers face when analyzing socio-technical systems such as climate change adaptation to floods?
-2. To what extent does Institutional Grammar facilitate qualitative and quantitative analysis of socio-technical systems such as climate change adaptation to floods?
-3. What is the best approach to aligning Institutional Grammar concepts with survey data?
-4. What is the most effective combination of data analysis techniques to extract institutional social structures from the questionnaire dataset?
+1. What challenges do institutional analysts face when identifying institutional informal rules?
+2. To what extent does Institutional Grammar align with survey data to identify and organize informal rules?
+3. What are the possible approaches to connect survey results to Institutional Grammar concepts?
+4. What requirements should the output data fulfill to ensure that the informal rules from surveys are usable for institutional analysis, consistent, and well-communicated?
 
 ### Scope
 The project's scope encompasses a review of relevant literature, examination of the survey dataset, method development, and analysis of results. The project is structured into the following chapters:
