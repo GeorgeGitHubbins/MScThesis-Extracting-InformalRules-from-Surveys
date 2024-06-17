@@ -27,13 +27,6 @@ Sub-questions include:
 3. What are the possible approaches to connect survey results to Institutional Grammar concepts?
 4. What requirements should the output data fulfill to ensure that the informal rules from surveys are usable for institutional analysis, consistent, and well-communicated?
 
-### Scope
-The project's scope encompasses a review of relevant literature, examination of the survey dataset, method development, and analysis of results. The project is structured into the following chapters:
-1. **Literature Review**: A comprehensive review of climate adaptation behavior and IG concepts.
-2. **Dataset Examination**: Detailed exploration and description of the survey dataset.
-3. **Methodology**: Development and explanation of the extraction method.
-4. **Results**: Analysis and presentation of findings.
-5. **Conclusions**: Summary of the project, implications, and future directions.
 
 ### Conclusion
 This project seeks to address the gap in standardized methodologies for extracting social structures from survey questionnaire data on climate adaptation behavior. By leveraging IG concepts and data analytics, the aim is to provide actionable insights for policymakers and researchers in climate resilience efforts. The developed method will facilitate a deeper understanding of the norms and shared strategies that underpin community responses to climate change, ultimately supporting more effective and informed policy decisions.
