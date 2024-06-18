@@ -8,8 +8,8 @@ This project aims to develop a standard method to identify social structures emb
 ### Methodology
 The project involves the following steps:
 
-1. **Literature Review**: Reviewing existing literature on climate adaptation behavior and IG concepts.
-2. **Dataset Exploration**: Exploring a longitudinal survey dataset on climate change adaptation behavior.
+1. **Literature Review**: Reviewing existing literature on behavior analysis and IG concepts.
+2. **Dataset Exploration**: Exploring a survey dataset.
 3. **Data Analysis Strategies**: Evaluating different data analysis strategies to extract social structures.
 4. **Method Development**: Developing a method that aligns IG concepts with survey questions and responses.
 5. **Validation and Testing**: Applying the developed method to the survey dataset to validate its effectiveness.
@@ -22,11 +22,11 @@ Sub-questions include:
 1. What challenges do institutional analysts face when identifying institutional informal rules?
 2. To what extent does Institutional Grammar align with survey data to identify and organize informal rules?
 3. What are the possible approaches to connect survey results to Institutional Grammar concepts?
-4. What requirements should the output data fulfill to ensure that the informal rules from surveys are usable for institutional analysis, consistent, and well-communicated?
+4. What requirements should the output data fulfil to ensure that the informal rules from surveys are usable for institutional analysis, consistent, and well-communicated?
 
 ### Steps:
 The SIRE method
-This section describes each stage of the proposed extraction method, outlining what the researcher is expected to do and the anticipated results. The process involves multiple steps, starting from the selection of relevant survey questions to the formation of ADICO statements. The methodology is structured to facilitate the extraction of informal rules-in-use from survey data for institutional analysis. The python code to perform these steps has also been prepared and made available in Github. (MScThesis-Extracting-Informal-Rules)
+This section describes each stage of the proposed extraction method, outlining what the researcher is expected to do and the anticipated results. The process involves multiple steps, starting from the selection of relevant survey questions to the formation of ADICO statements. The methodology is structured to facilitate the extraction of informal rules-in-use from survey data for institutional analysis.
 Survey Data Access: Ensure access to the survey data that includes questions relevant to the research context. There should be two datasets for a survey: question overview and responses
 
 
@@ -38,7 +38,7 @@ Response_Value: Numerical mapping of response options.
 ADICO_Category (Optional): The ADICO component (Attribute, Aim, Condition, Deontic) identified by the question.
 
 
-Selecting Relevant Questions: Select questions from the survey data that are relevant to research, ensuring a comprehensive representation of demographics, actions, opinions, and external factors. Prioritise dichotomous and ordinal questions due to their simplicity in coding and analysis.
+Selecting Relevant Questions: Select questions from the survey data relevant to research, ensuring a comprehensive representation of demographics, actions, opinions, and external factors. Prioritise dichotomous and ordinal questions due to their simplicity in coding and analysis.
 Demographic Questions: If you are focusing on studying a specific demographic, include the attribute-categorised questions that capture the relevant demographic information.
 
 
@@ -77,4 +77,4 @@ Visualize and plot: Plot the statements and proportions using the data from the 
 
 
 ### Conclusion
-This project seeks to address the gap in standardized methodologies for extracting social structures from survey questionnaire data on climate adaptation behavior. By leveraging IG concepts and data analytics, the aim is to provide actionable insights for policymakers and researchers in climate resilience efforts. The developed method will facilitate a deeper understanding of the norms and shared strategies that underpin community responses to climate change, ultimately supporting more effective and informed policy decisions.
+This project seeks to address the gap in standardized methodologies for extracting social structures from survey data. By leveraging IG concepts and data analytics, the aim is to provide actionable insights for policymakers and researchers. The developed method will facilitate a deeper understanding of the norms and shared strategies that underpin community responses, ultimately supporting more effective and informed policy decisions.
