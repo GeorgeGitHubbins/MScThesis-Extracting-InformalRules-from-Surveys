@@ -1,25 +1,28 @@
 Question_ID,Question_Text,Response_Option,Response_Value,ADICO_Category
-1,What is your age?,Under 18,1,Attribute
-1,What is your age?,18-35,2,Attribute
-1,What is your age?,36-50,3,Attribute
-1,What is your age?,51-65,4,Attribute
-1,What is your age?,Over 65,5,Attribute
-2,What is your gender?,Male,1,Attribute
-2,What is your gender?,Female,2,Attribute
-2,What is your gender?,Other,3,Attribute
-3,Have you recycled in the past month?,Yes,1,Aim
-3,Have you recycled in the past month?,No,2,Aim
-4,Do you plan to use public transportation more frequently?,Yes,1,Aim
-4,Do you plan to use public transportation more frequently?,No,2,Aim
-5,Did you vote in the last election?,Yes,1,Aim
-5,Did you vote in the last election?,No,2,Aim
-6,Did you recycle because it was convenient?,Yes,1,Condition
-6,Did you recycle because it was convenient?,No,2,Condition
-7,Would you use public transport if it were cheaper?,Yes,1,Condition
-7,Would you use public transport if it were cheaper?,No,2,Condition
-8,Did seeing a political ad influence your decision to vote?,Yes,1,Condition
-8,Did seeing a political ad influence your decision to vote?,No,2,Condition
-9,Do you feel obligated to recycle?,Yes,1,Deontic
-9,Do you feel obligated to recycle?,No,2,Deontic
-10,Do your peers expect you to use public transportation?,Yes,1,Deontic
-10,Do your peers expect you to use public transportation?,No,2,Deontic
+Q1,What is your age?,Under 18,1,Attribute
+Q1,What is your age?,18-35,2,Attribute
+Q1,What is your age?,36-50,3,Attribute
+Q1,What is your age?,51-65,4,Attribute
+Q1,What is your age?,Over 65,5,Attribute
+Q2,What is your gender?,Male,1,Attribute
+Q2,What is your gender?,Female,2,Attribute
+Q2,What is your gender?,Other,3,Attribute
+Q3,Have you recycled in the past month?,Yes,1,Aim
+Q3,Have you recycled in the past month?,No,2,Aim
+Q4,Do you use public transportation frequently?,Yes,1,Aim
+Q4,Do you use public transportation frequently?,No,2,Aim
+Q5,Did you vote in the last election?,Yes,1,Aim
+Q5,Did you vote in the last election?,No,2,Aim
+Q6,Do you think recycling is easy?,Yes,1,Condition
+Q6,Do you think recycling is easy?,No,2,Condition
+Q7,Do you consider pulic transport to be affordable?,Very affordable,1,Condition
+Q7,Do you consider pulic transport to be affordable?,Affordable,2,Condition
+Q7,Do you consider pulic transport to be affordable?,Neutral,3,Condition
+Q7,Do you consider pulic transport to be affordable?,Expensive,4,Condition
+Q7,Do you consider pulic transport to be affordable?,Very expensive,5,Condition
+Q8,Do you follow political news on Social media?,Yes,1,Condition
+Q8,Do you follow political news on Social media?,No,2,Condition
+Q9,Do you feel obligated to recycle?,Yes,1,Deontic
+Q9,Do you feel obligated to recycle?,No,2,Deontic
+Q10,Do your peers expect you to use public transportation?,Yes,1,Deontic
+Q10,Do your peers expect you to use public transportation?,No,2,Deontic
