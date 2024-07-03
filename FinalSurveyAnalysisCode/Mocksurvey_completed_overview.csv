@@ -1,0 +1,28 @@
+Question_Response_ID,Question_ID,Question_Text,Response_Option,Response_Value,ADICO_Category,IG_Component
+Q1_1,Q1,What is your age?,Under 18,1,Attribute,if they are under 18
+Q1_2,Q1,What is your age?,18-35,2,Attribute,if they are between 18 and 35
+Q1_3,Q1,What is your age?,50 or younger,3,Attribute,if they are 50 or younger
+Q1_4,Q1,What is your age?,Over 50,4,Attribute,if they are over 50
+Q1_5,Q1,What is your age?,Over 65,5,Attribute,if they are over 65
+Q2_1,Q2,What is your gender?,Male,1,Attribute,if they are male
+Q2_2,Q2,What is your gender?,Female,2,Attribute,if they are female
+Q2_3,Q2,What is your gender?,Other,3,Attribute,if they are other
+Q3_1,Q3,Have you recycled in the past month?,Yes,1,Aim,recycle
+Q3_2,Q3,Have you recycled in the past month?,No,2,Aim,not recycle
+Q4_1,Q4,Do you use public transportation frequently?,Yes,1,Aim,use public transportation frequently
+Q4_2,Q4,Do you use public transportation frequently?,No,2,Aim,not use public transportation frequently
+Q5_1,Q5,Did you vote in the last election?,Yes,1,Aim,achieve their right to vote
+Q5_2,Q5,Did you vote in the last election?,No,2,Aim,decline their right to vote
+Q6_1,Q6,Do you think recycling is easy?,Yes,1,Condition,if they think recycling is easy
+Q6_2,Q6,Do you think recycling is easy?,No,2,Condition,if they think recycling is not easy
+Q7_1,Q7,Do you consider pulic transport to be affordable?,Very affordable,1,Condition,if they consider public transport to be very affordable
+Q7_2,Q7,Do you consider pulic transport to be affordable?,Affordable,2,Condition,if they consider public transport to be affordable
+Q7_3,Q7,Do you consider pulic transport to be affordable?,not Expensive,3,Condition,if they consider public transport to be not expensive
+Q7_4,Q7,Do you consider pulic transport to be affordable?,Expensive,4,Condition,if they consider public transport to be expensive
+Q7_5,Q7,Do you consider pulic transport to be affordable?,Very expensive,5,Condition,if they consider public transport to be very expensive
+Q8_1,Q8,Do you follow political news on Social media?,Yes,1,Condition,if they follow political news on Social media
+Q8_2,Q8,Do you follow political news on Social media?,No,2,Condition,if they do not follow political news on Social media
+Q9_1,Q9,Do you feel obligated to recycle?,Yes,1,Deontic,if they feel obligated to recycle
+Q9_2,Q9,Do you feel obligated to recycle?,No,2,Deontic,if they do not feel obligated to recycle
+Q10_1,Q10,Do your peers expect you to use public transportation?,Yes,1,Deontic,if they feel their peers expect them to use public transportation
+Q10_2,Q10,Do your peers expect you to use public transportation?,No,2,Deontic,if they feel their peers do not expect them to use public transportation
