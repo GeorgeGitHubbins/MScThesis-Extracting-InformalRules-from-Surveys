@@ -11,8 +11,8 @@ Q3_1,Q3,Have you recycled in the past month?,Yes,1,Aim,recycle
 Q3_2,Q3,Have you recycled in the past month?,No,2,Aim,not recycle
 Q4_1,Q4,Do you use public transportation frequently?,Yes,1,Aim,use public transportation frequently
 Q4_2,Q4,Do you use public transportation frequently?,No,2,Aim,not use public transportation frequently
-Q5_1,Q5,Did you vote in the last election?,Yes,1,Aim,achieve their right to vote
-Q5_2,Q5,Did you vote in the last election?,No,2,Aim,decline their right to vote
+Q5_1,Q5,Did you vote in the last election?,Yes,1,Aim,achieve their voting rights
+Q5_2,Q5,Did you vote in the last election?,No,2,Aim,decline their voting rights
 Q6_1,Q6,Do you think recycling is easy?,Yes,1,Condition,if they think recycling is easy
 Q6_2,Q6,Do you think recycling is easy?,No,2,Condition,if they think recycling is not easy
 Q7_1,Q7,Do you consider pulic transport to be affordable?,Very affordable,1,Condition,if they consider public transport to be very affordable
