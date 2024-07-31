@@ -17,7 +17,7 @@ Q6_1,Q6,Do you think recycling is easy?,Yes,1,Condition,if they think recycling 
 Q6_2,Q6,Do you think recycling is easy?,No,2,Condition,if they think recycling is not easy
 Q7_1,Q7,Do you consider pulic transport to be affordable?,Very affordable,1,Condition,if they consider public transport to be very affordable
 Q7_2,Q7,Do you consider pulic transport to be affordable?,Affordable,2,Condition,if they consider public transport to be affordable
-Q7_3,Q7,Do you consider pulic transport to be affordable?,not Expensive,3,Condition,if they consider public transport to be not expensive
+Q7_3,Q7,Do you consider pulic transport to be affordable?,Not expensive,3,Condition,if they consider public transport to be not expensive
 Q7_4,Q7,Do you consider pulic transport to be affordable?,Expensive,4,Condition,if they consider public transport to be expensive
 Q7_5,Q7,Do you consider pulic transport to be affordable?,Very expensive,5,Condition,if they consider public transport to be very expensive
 Q8_1,Q8,Do you follow political news on Social media?,Yes,1,Condition,if they follow political news on Social media
