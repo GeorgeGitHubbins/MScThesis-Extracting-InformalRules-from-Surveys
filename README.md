@@ -1,5 +1,6 @@
 # MThesis
 
+> **Note**: This repository contains the code and data for a completed Master's thesis (circa 2024). It is maintained as a static snapshot of the original work. Dependencies have been updated to resolve security alerts, but no ongoing development is expected.
 ## Identifying Institutions and Social Behaviour: A Method for Extracting Institutional Informal Rules from Surveys
 
 ### Objective
